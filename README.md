@@ -1,5 +1,5 @@
 # Houseprice
-Certainly, here's a well-structured README file template for a House Price Prediction using Machine Learning project:
+
 
 # House Price Prediction using Machine Learning
 
@@ -15,10 +15,7 @@ This project aims to develop a machine learning model to predict house prices ba
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Building](#model-building)
-- [Evaluation](#evaluation)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+-
 
 ## Dataset
 
